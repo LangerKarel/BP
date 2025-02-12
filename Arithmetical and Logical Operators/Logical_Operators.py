@@ -1,10 +1,14 @@
 #
 # Napiš funkci, která vrátí hodnotu True, pokud je obchod otevřený a False, pokud je obchod zavřený.
-# Obchod otvírá v 8 hodin a zavírá ve 20 hodin. Čas bude vždy udán celým číslem.
+# Obchod otvírá v 8 hodin a zavírá ve 20 hodin. Aktuální čas bude vždy udán celým číslem a uložen v proměnné "current_hour".
+# Pro psaní funkce smažte slovo "pass" a editujte svojí funkci.
 #
 
 def opening_hours(current_hour):
-    return(8<=current_hour<=20)
+    pass
+
+""" def opening_hours(current_hour):
+    return(8<=current_hour<=20) """
 
 """ def opening_hours(current_hour):
     return(8<=current_hour and current_hour<=20) """
