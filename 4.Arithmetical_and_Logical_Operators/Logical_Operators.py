@@ -15,9 +15,9 @@ def opening_hours(current_hour):
 
 """ def opening_hours(current_hour):
     if 8<=current_hour and current_hour<=20:
-        return True
+        return(True)
     else:
-        return False """
+        return(False) """
 
 
 def main() -> None:  # testovací funkce
