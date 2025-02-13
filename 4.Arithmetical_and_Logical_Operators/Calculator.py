@@ -17,6 +17,48 @@ def multiplication(x, y):
 def division(x, y):
     pass
 
+""" def addition(x, y):
+    return x + y
+
+def addition(x, y):
+    result = x + y
+    return result
+
+def subtraction(x, y):
+    return x - y
+
+def subtraction(x, y):
+    result = x - y
+    return result
+
+def multiplication(x, y):
+    return x * y
+
+def multiplication(x, y):
+    result = x * y
+    return result
+
+def multiplication(x, y):
+    result = 0
+    for i in range(y):
+        result += x
+
+    return result 
+
+def division(x, y):
+    return y and x / y or False
+
+def division(x, y):
+    if y == 0:
+        return False
+    return x / y
+
+def division(x, y):
+    if y == 0:
+        return False
+    else:
+        result = x / y
+    return result """
 
 
 def main() -> None:  # testovací funkce
